@@ -1,4 +1,4 @@
-## Privacy Policy for WhatColors
+## Privacy Policy for Nafs
 
 Company: MindGarden Inc
 
@@ -7,14 +7,14 @@ This Privacy Policy describes our policies and procedures on the collection, use
 We use your personal data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Privacy Policy Generator.
 
 ### Support
-Contact: hey@whatcolors.app  
+Contact: hey@Nafs.app  
 
 
 ### Interpretation and Definitions
 
 - **Account**: a unique account created for you to access our Service or parts of our Service.
 - **Affiliate**: an entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.
-- **Application**: Whatcolors, the software program provided by the Company.
+- **Application**: Nafs, the software program provided by the Company.
 - **Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement)**: MindGarden C Corp, 2055 Limestone Rd STE 200-C, Wilmington, DE, New Castle, US, 19808.
 - **Country**: Delaware, United States.
 - **Device**: any device that can access the Service such as a computer, a cellphone, or a digital tablet.
@@ -100,11 +100,11 @@ The Company may disclose your Personal Data in the good faith belief that such a
 - Comply with a legal obligation
 - Protect and defend the rights or property of the Company
 
-Contact: hey@whatcolors.app
+Contact: hey@Nafs.app
 - Prevent or investigate possible
 
 ### To Delete Your Account 
 - In order to delete your account
-- Email hey@whatcolors.app with the subject line: "delete account". In the body of your email, make sure to send us the email you signed up with.
+- Email hey@Nafs.app with the subject line: "delete account". In the body of your email, make sure to send us the email you signed up with.
 - Logout of the app
 - Your account will then be deleted within 24 hours by our team
